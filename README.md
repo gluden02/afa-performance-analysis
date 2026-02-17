@@ -8,6 +8,15 @@ The notebook includes data preprocessing, exploratory data analysis (EDA), and v
 
 ---
 
+## 📂 Repository Structure
+
+- **index.html** → Main visual report (GitHub Pages landing page with full analysis and visualizations).
+- **afa_stats_analysis_report.ipynb** → Complete Jupyter Notebook containing the full analytical workflow and outputs.
+- **afa_2015_2022_spa.csv** → Raw dataset used for the analysis.
+- **README.md** → Project documentation and overview.
+
+---
+
 ## 📄 Full Analysis Report
 
 You can view the complete analysis with visualizations here:
