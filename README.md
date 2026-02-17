@@ -64,7 +64,9 @@ You can view the complete analysis with visualizations here:
 
 ---
 
-📎 Note: The dataset and variable names are in Spanish, as they reflect the original AFA data structure.
+##📎 Note
+
+The dataset and variable names are in Spanish, as they reflect the original AFA data structure.
 
 ---
 
