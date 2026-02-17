@@ -21,7 +21,7 @@ The notebook includes data preprocessing, exploratory data analysis (EDA), and v
 
 You can view the complete analysis with visualizations here:
 
-[View HTML Report](afa_stats_analysis.html)
+[View HTML Report](index.html)
 
 ---
 
